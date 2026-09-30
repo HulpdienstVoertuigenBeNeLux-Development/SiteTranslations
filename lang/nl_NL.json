@@ -465,7 +465,8 @@
     "zoom_in": "Inzoomen",
     "zoom_out": "Uitzoomen",
     "theme_classic": "Classic",
-    "theme_satellite": "Satelliet"
+    "theme_satellite": "Satelliet",
+    "search_placeholder": "Zoek op adres, roepnummer, afkorting..."
   },
   "post": {
     "page_title": "Post - HulpdienstvoertuigenBenelux",
