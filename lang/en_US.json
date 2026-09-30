@@ -465,7 +465,8 @@
     "zoom_in": "Zoom in",
     "zoom_out": "Zoom out",
     "theme_classic": "Classic",
-    "theme_satellite": "Satellite"
+    "theme_satellite": "Satellite",
+    "search_placeholder": "Search by address, call sign, abbreviation..."
   },
   "post": {
     "page_title": "Building - HulpdienstvoertuigenBenelux",
