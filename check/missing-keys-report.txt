@@ -1,16 +1,18 @@
 Locale key comparison report (source-based)
 ===========================================
 Source file: nl_NL.json
-Total source keys: 807
-Source keys missing in at least one file: 0
+Total source keys: 808
+Source keys missing in at least one file: 1
 
 Missing source keys by file
 ---------------------------
-de_DE.json: 0 missing
+de_DE.json: 1 missing
+  - kaart.search_placeholder
 
 en_US.json: 0 missing
 
-fr_FR.json: 0 missing
+fr_FR.json: 1 missing
+  - kaart.search_placeholder
 
 Extra keys not in source
 ------------------------
@@ -28,4 +30,4 @@ fr_FR.json: 3 extra
 
 Missing files by key
 --------------------
-No missing keys detected. All files contain the same leaf keys.
+kaart.search_placeholder: de_DE.json, fr_FR.json
