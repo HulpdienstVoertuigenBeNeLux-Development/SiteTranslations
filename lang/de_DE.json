@@ -533,7 +533,8 @@
     "theme_classic": "Klassisch",
     "theme_satellite": "Satelliten",
     "zoom_in": "Zoom",
-    "zoom_out": "Zoom out"
+    "zoom_out": "Zoom out",
+    "search_placeholder": "Suche nach Adresse, Rufnummer, Abkürzung..."
   },
   "maintenance": {
     "admin_login": "Melden Sie sich als Administrator an",

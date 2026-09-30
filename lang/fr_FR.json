@@ -533,7 +533,8 @@
     "theme_classic": "Classique",
     "theme_satellite": "Satellite",
     "zoom_in": "Zoomer",
-    "zoom_out": "Zoom arrière"
+    "zoom_out": "Zoom arrière",
+    "search_placeholder": "Recherche d'adresse, numéro d'appel, abréviation..."
   },
   "maintenance": {
     "admin_login": "Connectez-vous en tant qu'administrateur",
