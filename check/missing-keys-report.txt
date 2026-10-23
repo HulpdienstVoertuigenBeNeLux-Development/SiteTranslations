@@ -1,16 +1,34 @@
 Locale key comparison report (source-based)
 ===========================================
 Source file: nl_NL.json
-Total source keys: 808
-Source keys missing in at least one file: 0
+Total source keys: 814
+Source keys missing in at least one file: 6
 
 Missing source keys by file
 ---------------------------
-de_DE.json: 0 missing
+de_DE.json: 6 missing
+  - fotowedstrijd.rights_checkbox
+  - fotowedstrijd.rights_required
+  - upload.post_only_service
+  - upload.rights_checkbox
+  - upload.rights_required
+  - upload.submit_hint
 
-en_US.json: 0 missing
+en_US.json: 6 missing
+  - fotowedstrijd.rights_checkbox
+  - fotowedstrijd.rights_required
+  - upload.post_only_service
+  - upload.rights_checkbox
+  - upload.rights_required
+  - upload.submit_hint
 
-fr_FR.json: 0 missing
+fr_FR.json: 6 missing
+  - fotowedstrijd.rights_checkbox
+  - fotowedstrijd.rights_required
+  - upload.post_only_service
+  - upload.rights_checkbox
+  - upload.rights_required
+  - upload.submit_hint
 
 Extra keys not in source
 ------------------------
@@ -28,4 +46,9 @@ fr_FR.json: 3 extra
 
 Missing files by key
 --------------------
-No missing keys detected. All files contain the same leaf keys.
+fotowedstrijd.rights_checkbox: de_DE.json, en_US.json, fr_FR.json
+fotowedstrijd.rights_required: de_DE.json, en_US.json, fr_FR.json
+upload.post_only_service: de_DE.json, en_US.json, fr_FR.json
+upload.rights_checkbox: de_DE.json, en_US.json, fr_FR.json
+upload.rights_required: de_DE.json, en_US.json, fr_FR.json
+upload.submit_hint: de_DE.json, en_US.json, fr_FR.json
