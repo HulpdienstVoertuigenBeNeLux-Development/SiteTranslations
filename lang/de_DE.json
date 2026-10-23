@@ -203,7 +203,9 @@
     "theme_label": "Thema:",
     "rules_button": "Regeln in Discord",
     "vote_button": "Abstimmung in Discord",
-    "vote_text": "Sie setzen Stimmen in unserem Discord Server."
+    "vote_text": "Sie setzen Stimmen in unserem Discord Server.",
+    "rights_checkbox": "Ich habe dieses Foto selbst gemacht und stimme der Veröffentlichung auf dieser Website zu.",
+    "rights_required": "Überprüfen Sie, ob Sie die Rechte auf diesem Foto haben."
   },
   "home": {
     "meta_description": "Die vollständigste Datenbank für Einsatzfahrzeuge in den Benelux-Ländern. Entdecke tausende Polizeiautos, Feuerwehrfahrzeuge, Krankenwagen, Rettungsboote und mehr aus den Niederlanden, Belgien und Luxemburg. Aktuell, vollständig und kostenlos einsehbar. Suche nach Region, Dienst oder Kennzeichen.",
@@ -368,7 +370,11 @@
     "submitting": "Senden...",
     "has_pending": "Warten auf Genehmigung",
     "has_pending_address": "Diese Adresse wartet bereits auf die Genehmigung. Wählen Sie eine andere Adresse.",
-    "has_pending_vehicle": "Dieses Fahrzeug wartet bereits auf die Genehmigung. Wählen Sie ein anderes Fahrzeug."
+    "has_pending_vehicle": "Dieses Fahrzeug wartet bereits auf die Genehmigung. Wählen Sie ein anderes Fahrzeug.",
+    "post_only_service": "Dieser Notdienst wird durch Posten abgedeckt. Verwenden Sie den \"Post\" -Modus zum Hochladen.",
+    "rights_checkbox": "Ich habe diese Fotos selbst gemacht oder habe die Erlaubnis des Schöpfers, und ich stimme der Veröffentlichung auf dieser Website zu.",
+    "rights_required": "Überprüfen Sie, ob Sie die Rechte an diesen Fotos haben.",
+    "submit_hint": "Wählen Sie ein Fahrzeug oder einen Post, fügen Sie ein Foto hinzu und kreuzen Sie das zu sendende Feld an."
   },
   "afkortingen": {
     "empty": "Für dieses Land sind noch keine Abkürzungen verfügbar.",
