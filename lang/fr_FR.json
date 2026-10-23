@@ -204,8 +204,8 @@
     "rules_button": "Règles en désaccord",
     "vote_button": "Vote en désaccord",
     "vote_text": "Vous avez voté dans notre serveur Discord.",
-    "rights_checkbox": "J'ai fait cette photo moi-même et j'accepte de la publier sur ce site.",
-    "rights_required": "Vérifiez que vous avez les droits sur cette photo."
+    "rights_checkbox": "J'ai pris cette photo moi-même et j'accepte sa publication sur ce site.",
+    "rights_required": "Cochez la case pour confirmer que vous détenez les droits sur cette photo."
   },
   "home": {
     "meta_description": "La base de donnees la plus complete des vehicules de services d'urgence dans le Benelux. Decouvrez des milliers de voitures de police, camions de pompiers, ambulances, bateaux de sauvetage et plus encore des Pays-Bas, de Belgique et du Luxembourg. A jour, complete et gratuite a consulter. Recherchez par region, service ou plaque d'immatriculation.",
@@ -371,10 +371,10 @@
     "has_pending": "En attente d'approbation",
     "has_pending_address": "Cette adresse est déjà en attente d'approbation. Choisissez une autre adresse.",
     "has_pending_vehicle": "Ce véhicule est déjà en attente d'homologation. Choisissez un autre véhicule.",
-    "post_only_service": "Ce service d'urgence est couvert par des postes. Utilisez le mode « Post » pour télécharger.",
-    "rights_checkbox": "J'ai pris ces photos moi-même ou j'ai la permission du créateur, et j'accepte la publication sur ce site.",
-    "rights_required": "Vérifiez que vous avez les droits sur ces photos.",
-    "submit_hint": "Choisissez un véhicule ou postez, ajoutez une photo et cochez la case à envoyer."
+    "post_only_service": "Ce service est classé sous les emplacements. Utilisez le mode « Emplacement » pour envoyer une photo.",
+    "rights_checkbox": "J'ai pris ces photos moi-même ou j'ai l'autorisation du photographe, et j'accepte leur publication sur ce site.",
+    "rights_required": "Cochez la case pour confirmer que vous détenez les droits sur ces photos.",
+    "submit_hint": "Choisissez un véhicule ou un emplacement, ajoutez une photo et cochez la case pour envoyer."
   },
   "afkortingen": {
     "empty": "Aucune abréviation disponible pour ce pays pour l'instant.",
