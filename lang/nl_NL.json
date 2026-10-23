@@ -203,7 +203,9 @@
     "file_invalid_type": "Alleen JPG, PNG en WEBP bestanden zijn toegestaan",
     "file_too_large": "is groter dan 25MB",
     "file_selected": "1 bestand geselecteerd",
-    "login_required_error": "Je moet ingelogd zijn."
+    "login_required_error": "Je moet ingelogd zijn.",
+    "rights_checkbox": "Ik heb deze foto zelf gemaakt en ik geef toestemming voor publicatie op deze website.",
+    "rights_required": "Vink aan dat je de rechten op deze foto hebt."
   },
   "home": {
     "meta_description": "De meest complete database van hulpdienstvoertuigen in de Benelux. Ontdek duizenden politieauto's, brandweerwagens, ambulances, reddingsboten en meer uit Nederland, België en Luxemburg. Actueel, compleet en gratis te raadplegen. Zoek op regio, hulpdienst of kenteken.",
@@ -368,7 +370,11 @@
     "max_one_photo": "Je kunt maximaal 1 foto per voertuig toevoegen",
     "has_pending": "In afwachting van goedkeuring",
     "has_pending_vehicle": "Dit voertuig wacht al op goedkeuring. Kies een ander voertuig.",
-    "has_pending_address": "Deze post wacht al op goedkeuring. Kies een andere post."
+    "has_pending_address": "Deze post wacht al op goedkeuring. Kies een andere post.",
+    "rights_checkbox": "Ik heb deze foto's zelf gemaakt of heb toestemming van de maker, en ik geef toestemming voor publicatie op deze website.",
+    "rights_required": "Vink aan dat je de rechten op deze foto's hebt.",
+    "submit_hint": "Kies een voertuig of post, voeg een foto toe en vink het vakje aan om te versturen.",
+    "post_only_service": "Deze hulpdienst valt onder posten. Gebruik de modus “Post” om hiervoor te uploaden."
   },
   "nav": {
     "home": "Home",
