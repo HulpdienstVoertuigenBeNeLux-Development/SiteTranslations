@@ -70,7 +70,8 @@
     "faq_a8": "Yes, you can. If you are interested, please contact one of the administrators or create a ticket in <a href=\"https://discord.com/channels/1270750242270351592/1457685596465266834\" target=\"_blank\" rel=\"noopener noreferrer\">our Discord server</a>.",
     "gallery_title": "Photo Gallery",
     "copyright_text": "Hulpdienstvoertuigen BeNeLux - All images and information are copyrighted",
-    "page_title": "About Us - HulpdienstvoertuigenBenelux"
+    "page_title": "About Us - HulpdienstvoertuigenBenelux",
+    "copyright_note": "All images and information on this website are copyrighted"
   },
   "contact": {
     "page_title": "Contact - HulpdienstvoertuigenBenelux",
@@ -157,7 +158,14 @@
     "empty_text": "No donations received yet. Be the first!",
     "error_text": "Donations could not be loaded.",
     "badge_subscriber": "Member",
-    "goal_description": "Monthly goal for hosting, domain and maintenance"
+    "goal_description": "Monthly goal for hosting, domain and maintenance",
+    "anonymous": "Anonymous",
+    "count_many": "donations",
+    "count_one": "1 donation",
+    "toggle_leaderboard": "Leaderboard",
+    "toggle_recent": "Recent",
+    "wall_leaderboard": "Top donors",
+    "wall_recent": "Recent donations"
   },
   "fotowedstrijd": {
     "page_title": "Photo Contest - HulpdienstvoertuigenBenelux",
@@ -273,7 +281,10 @@
     "category_feuerwehr_desc": "Firefighting and fire prevention in Luxembourg",
     "category_rettungsdienst_desc": "Rescue services and emergency medical assistance in Luxembourg",
     "category_civiele_bescherming_desc": "Protects the population during disasters and emergencies",
-    "category_sanquin_desc": "Blood supply and blood transfusion in the Netherlands"
+    "category_sanquin_desc": "Blood supply and blood transfusion in the Netherlands",
+    "hero_stat_photographers": "Photographers",
+    "hero_stat_photos": "Photos",
+    "hero_stat_vehicles": "Vehicles"
   },
   "list": {
     "page_title": "Overviews - HulpdienstvoertuigenBenelux",
@@ -398,7 +409,8 @@
     "list": "List",
     "explore": "Explore",
     "all_photos": "All photos",
-    "photographers": "Our photographers"
+    "photographers": "Our photographers",
+    "services": "Emergency services"
   },
   "footer": {
     "description": "The most complete overview of emergency vehicles in the Benelux. Discover, compare and learn about the different vehicles that are deployed for our safety.",
@@ -493,7 +505,8 @@
     "no_vehicles": "No vehicles found at this building.",
     "map_title": "Location on the map",
     "map_full": "View full map",
-    "invalid_url": "Invalid link"
+    "invalid_url": "Invalid link",
+    "info_title": "Information"
   },
   "voertuigen": {
     "page_title": "Vehicle - HulpdienstvoertuigenBenelux",
@@ -513,7 +526,8 @@
     "details_title": "Vehicle information",
     "map_title": "Location on the map",
     "map_full": "View full map",
-    "invalid_url": "Invalid link"
+    "invalid_url": "Invalid link",
+    "rdw_title": "Additional vehicle data"
   },
   "detail": {
     "meta_description": "Detailed information about emergency service buildings and vehicles. Call sign, license plate, type and location of police, fire, ambulance and other emergency vehicles in the Benelux.",
@@ -864,5 +878,8 @@
     "prev": "Previous",
     "next": "Next",
     "photo_one": "photo"
+  },
+  "auth": {
+    "page_title": "Log in -   PROTECTED TERM 0  "
   }
 }

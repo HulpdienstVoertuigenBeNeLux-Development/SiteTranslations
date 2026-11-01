@@ -70,7 +70,8 @@
     "faq_a8": "Oui, vous le pouvez. Si vous etes interesse, veuillez contacter l'un des administrateurs ou creer un ticket sur <a href=\"https://discord.com/channels/1270750242270351592/1457685596465266834\" target=\"_blank\" rel=\"noopener noreferrer\">notre serveur Discord</a>.",
     "gallery_title": "Galerie photo",
     "copyright_text": "Hulpdienstvoertuigen BeNeLux - Toutes les images et informations sont protegees par le droit d'auteur",
-    "page_title": "À propos de nous - HulpdienstvoertuigenBenelux"
+    "page_title": "À propos de nous - HulpdienstvoertuigenBenelux",
+    "copyright_note": "Toutes les images et informations sur ce site sont protégées par copyright"
   },
   "contact": {
     "page_title": "Contact - HulpdienstvoertuigenBenelux",
@@ -157,7 +158,14 @@
     "empty_text": "Aucun don recu pour le moment. Soyez le premier !",
     "error_text": "Impossible de charger les dons.",
     "badge_subscriber": "Membre",
-    "goal_description": "Objectif mensuel pour l'hébergement, le domaine et la maintenance"
+    "goal_description": "Objectif mensuel pour l'hébergement, le domaine et la maintenance",
+    "anonymous": "Anonyme",
+    "count_many": "dons",
+    "count_one": "1 don",
+    "toggle_leaderboard": "Tableau de bord",
+    "toggle_recent": "Récent",
+    "wall_leaderboard": "Principaux donateurs",
+    "wall_recent": "Dons récents"
   },
   "fotowedstrijd": {
     "page_title": "Concours photo - HulpdienstvoertuigenBenelux",
@@ -273,7 +281,10 @@
     "category_civiele_bescherming_desc": "Protège la population en cas de catastrophe et d'urgence",
     "category_feuerwehr_desc": "Prévention des incendies et des incendies à Luxembourg",
     "category_rettungsdienst_desc": "Services de secours et d'urgence au Luxembourg",
-    "category_sanquin_desc": "Approvisionnement en sang et transfusion de sang aux Pays-Bas"
+    "category_sanquin_desc": "Approvisionnement en sang et transfusion de sang aux Pays-Bas",
+    "hero_stat_photographers": "Photographes",
+    "hero_stat_photos": "Photos",
+    "hero_stat_vehicles": "Véhicules"
   },
   "list": {
     "page_title": "Apercus - HulpdienstvoertuigenBenelux",
@@ -577,7 +588,8 @@
     "explore": "Explorer",
     "list": "Liste",
     "map": "Carte",
-    "photographers": "Nos photographes"
+    "photographers": "Nos photographes",
+    "services": "Services d'urgence"
   },
   "post": {
     "breadcrumb_map": "Carte",
@@ -598,7 +610,8 @@
     "page_title": "Message - HulpdienstvoertuigenBenelux",
     "twitter_description": "Affichez les détails d'une station de service d'urgence et son emplacement sur la carte.",
     "twitter_title": "Message - HulpdienstvoertuigenBenelux",
-    "vehicles_title": "Véhicules"
+    "vehicles_title": "Véhicules",
+    "info_title": "Informations"
   },
   "privacy": {
     "back_to_top": "Retour en haut",
@@ -825,7 +838,8 @@
     "twitter_description": "Voir tous les détails de ce véhicule d'urgence, y compris les photos et son emplacement sur la carte.",
     "twitter_title": "Véhicule - HulpdienstvoertuigenBenelux",
     "unknown_vehicle": "Véhicule inconnu",
-    "view_post": "Voir le message"
+    "view_post": "Voir le message",
+    "rdw_title": "Données supplémentaires concernant le véhicule"
   },
   "detail": {
     "breadcrumb_home": "Maison",
@@ -867,5 +881,8 @@
     "sort_oldest": "Le plus vieux d'abord",
     "sort_za": "Z-A",
     "photo_one": "photo"
+  },
+  "auth": {
+    "page_title": "Connexion - TERME PROTÉGÉ 0"
   }
 }
