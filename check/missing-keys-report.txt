@@ -1,16 +1,241 @@
 Locale key comparison report (source-based)
 ===========================================
 Source file: nl_NL.json
-Total source keys: 829
-Source keys missing in at least one file: 0
+Total source keys: 904
+Source keys missing in at least one file: 75
 
 Missing source keys by file
 ---------------------------
-de_DE.json: 0 missing
+de_DE.json: 75 missing
+  - hulpdiensten.hero_subtitle
+  - hulpdiensten.hero_title
+  - hulpdiensten.load_error
+  - hulpdiensten.loading
+  - hulpdiensten.meta_description
+  - hulpdiensten.no_data
+  - hulpdiensten.no_results
+  - hulpdiensten.note
+  - hulpdiensten.og_description
+  - hulpdiensten.og_title
+  - hulpdiensten.page_title
+  - hulpdiensten.search_placeholder
+  - hulpdiensten.service_academies
+  - hulpdiensten.service_ambulance
+  - hulpdiensten.service_bergingsbedrijf
+  - hulpdiensten.service_brandweer
+  - hulpdiensten.service_centres_d_appel
+  - hulpdiensten.service_civiele_bescherming
+  - hulpdiensten.service_croix_rouge
+  - hulpdiensten.service_douane
+  - hulpdiensten.service_feuerwehr
+  - hulpdiensten.service_hopitaux
+  - hulpdiensten.service_kmar
+  - hulpdiensten.service_knrm
+  - hulpdiensten.service_kustwacht
+  - hulpdiensten.service_meldkamers
+  - hulpdiensten.service_penitentiaire_inrichting
+  - hulpdiensten.service_police
+  - hulpdiensten.service_politie
+  - hulpdiensten.service_prorail
+  - hulpdiensten.service_reddingsbrigade
+  - hulpdiensten.service_rettungsdienst
+  - hulpdiensten.service_rijkswaterstaat
+  - hulpdiensten.service_rode_kruis
+  - hulpdiensten.service_sanquin
+  - hulpdiensten.service_weginspecteurs
+  - hulpdiensten.service_ziekenhuizen
+  - hulpdiensten.tag_posts
+  - hulpdiensten.tag_vehicles
+  - hulpdiensten.tag_with_photo
+  - hulpdiensten.text_be_ambulance
+  - hulpdiensten.text_be_brandweer
+  - hulpdiensten.text_be_civiele_bescherming
+  - hulpdiensten.text_be_kustwacht
+  - hulpdiensten.text_be_meldkamers
+  - hulpdiensten.text_be_politie
+  - hulpdiensten.text_be_reddingsbrigade
+  - hulpdiensten.text_default
+  - hulpdiensten.text_lux_centres_d_appel
+  - hulpdiensten.text_lux_croix_rouge
+  - hulpdiensten.text_lux_feuerwehr
+  - hulpdiensten.text_lux_police
+  - hulpdiensten.text_lux_rettungsdienst
+  - hulpdiensten.text_nl_ambulance
+  - hulpdiensten.text_nl_brandweer
+  - hulpdiensten.text_nl_douane
+  - hulpdiensten.text_nl_kmar
+  - hulpdiensten.text_nl_knrm
+  - hulpdiensten.text_nl_kustwacht
+  - hulpdiensten.text_nl_penitentiaire_inrichting
+  - hulpdiensten.text_nl_politie
+  - hulpdiensten.text_nl_prorail
+  - hulpdiensten.text_nl_reddingsbrigade
+  - hulpdiensten.text_nl_rijkswaterstaat
+  - hulpdiensten.text_nl_rode_kruis
+  - hulpdiensten.text_nl_sanquin
+  - hulpdiensten.text_nl_weginspecteurs
+  - hulpdiensten.text_shared_academies
+  - hulpdiensten.text_shared_bergingsbedrijf
+  - hulpdiensten.text_shared_hopitaux
+  - hulpdiensten.text_shared_meldkamers
+  - hulpdiensten.text_shared_ziekenhuizen
+  - hulpdiensten.view_in_list
+  - hulpdiensten.view_less
+  - hulpdiensten.view_more
 
-en_US.json: 0 missing
+en_US.json: 75 missing
+  - hulpdiensten.hero_subtitle
+  - hulpdiensten.hero_title
+  - hulpdiensten.load_error
+  - hulpdiensten.loading
+  - hulpdiensten.meta_description
+  - hulpdiensten.no_data
+  - hulpdiensten.no_results
+  - hulpdiensten.note
+  - hulpdiensten.og_description
+  - hulpdiensten.og_title
+  - hulpdiensten.page_title
+  - hulpdiensten.search_placeholder
+  - hulpdiensten.service_academies
+  - hulpdiensten.service_ambulance
+  - hulpdiensten.service_bergingsbedrijf
+  - hulpdiensten.service_brandweer
+  - hulpdiensten.service_centres_d_appel
+  - hulpdiensten.service_civiele_bescherming
+  - hulpdiensten.service_croix_rouge
+  - hulpdiensten.service_douane
+  - hulpdiensten.service_feuerwehr
+  - hulpdiensten.service_hopitaux
+  - hulpdiensten.service_kmar
+  - hulpdiensten.service_knrm
+  - hulpdiensten.service_kustwacht
+  - hulpdiensten.service_meldkamers
+  - hulpdiensten.service_penitentiaire_inrichting
+  - hulpdiensten.service_police
+  - hulpdiensten.service_politie
+  - hulpdiensten.service_prorail
+  - hulpdiensten.service_reddingsbrigade
+  - hulpdiensten.service_rettungsdienst
+  - hulpdiensten.service_rijkswaterstaat
+  - hulpdiensten.service_rode_kruis
+  - hulpdiensten.service_sanquin
+  - hulpdiensten.service_weginspecteurs
+  - hulpdiensten.service_ziekenhuizen
+  - hulpdiensten.tag_posts
+  - hulpdiensten.tag_vehicles
+  - hulpdiensten.tag_with_photo
+  - hulpdiensten.text_be_ambulance
+  - hulpdiensten.text_be_brandweer
+  - hulpdiensten.text_be_civiele_bescherming
+  - hulpdiensten.text_be_kustwacht
+  - hulpdiensten.text_be_meldkamers
+  - hulpdiensten.text_be_politie
+  - hulpdiensten.text_be_reddingsbrigade
+  - hulpdiensten.text_default
+  - hulpdiensten.text_lux_centres_d_appel
+  - hulpdiensten.text_lux_croix_rouge
+  - hulpdiensten.text_lux_feuerwehr
+  - hulpdiensten.text_lux_police
+  - hulpdiensten.text_lux_rettungsdienst
+  - hulpdiensten.text_nl_ambulance
+  - hulpdiensten.text_nl_brandweer
+  - hulpdiensten.text_nl_douane
+  - hulpdiensten.text_nl_kmar
+  - hulpdiensten.text_nl_knrm
+  - hulpdiensten.text_nl_kustwacht
+  - hulpdiensten.text_nl_penitentiaire_inrichting
+  - hulpdiensten.text_nl_politie
+  - hulpdiensten.text_nl_prorail
+  - hulpdiensten.text_nl_reddingsbrigade
+  - hulpdiensten.text_nl_rijkswaterstaat
+  - hulpdiensten.text_nl_rode_kruis
+  - hulpdiensten.text_nl_sanquin
+  - hulpdiensten.text_nl_weginspecteurs
+  - hulpdiensten.text_shared_academies
+  - hulpdiensten.text_shared_bergingsbedrijf
+  - hulpdiensten.text_shared_hopitaux
+  - hulpdiensten.text_shared_meldkamers
+  - hulpdiensten.text_shared_ziekenhuizen
+  - hulpdiensten.view_in_list
+  - hulpdiensten.view_less
+  - hulpdiensten.view_more
 
-fr_FR.json: 0 missing
+fr_FR.json: 75 missing
+  - hulpdiensten.hero_subtitle
+  - hulpdiensten.hero_title
+  - hulpdiensten.load_error
+  - hulpdiensten.loading
+  - hulpdiensten.meta_description
+  - hulpdiensten.no_data
+  - hulpdiensten.no_results
+  - hulpdiensten.note
+  - hulpdiensten.og_description
+  - hulpdiensten.og_title
+  - hulpdiensten.page_title
+  - hulpdiensten.search_placeholder
+  - hulpdiensten.service_academies
+  - hulpdiensten.service_ambulance
+  - hulpdiensten.service_bergingsbedrijf
+  - hulpdiensten.service_brandweer
+  - hulpdiensten.service_centres_d_appel
+  - hulpdiensten.service_civiele_bescherming
+  - hulpdiensten.service_croix_rouge
+  - hulpdiensten.service_douane
+  - hulpdiensten.service_feuerwehr
+  - hulpdiensten.service_hopitaux
+  - hulpdiensten.service_kmar
+  - hulpdiensten.service_knrm
+  - hulpdiensten.service_kustwacht
+  - hulpdiensten.service_meldkamers
+  - hulpdiensten.service_penitentiaire_inrichting
+  - hulpdiensten.service_police
+  - hulpdiensten.service_politie
+  - hulpdiensten.service_prorail
+  - hulpdiensten.service_reddingsbrigade
+  - hulpdiensten.service_rettungsdienst
+  - hulpdiensten.service_rijkswaterstaat
+  - hulpdiensten.service_rode_kruis
+  - hulpdiensten.service_sanquin
+  - hulpdiensten.service_weginspecteurs
+  - hulpdiensten.service_ziekenhuizen
+  - hulpdiensten.tag_posts
+  - hulpdiensten.tag_vehicles
+  - hulpdiensten.tag_with_photo
+  - hulpdiensten.text_be_ambulance
+  - hulpdiensten.text_be_brandweer
+  - hulpdiensten.text_be_civiele_bescherming
+  - hulpdiensten.text_be_kustwacht
+  - hulpdiensten.text_be_meldkamers
+  - hulpdiensten.text_be_politie
+  - hulpdiensten.text_be_reddingsbrigade
+  - hulpdiensten.text_default
+  - hulpdiensten.text_lux_centres_d_appel
+  - hulpdiensten.text_lux_croix_rouge
+  - hulpdiensten.text_lux_feuerwehr
+  - hulpdiensten.text_lux_police
+  - hulpdiensten.text_lux_rettungsdienst
+  - hulpdiensten.text_nl_ambulance
+  - hulpdiensten.text_nl_brandweer
+  - hulpdiensten.text_nl_douane
+  - hulpdiensten.text_nl_kmar
+  - hulpdiensten.text_nl_knrm
+  - hulpdiensten.text_nl_kustwacht
+  - hulpdiensten.text_nl_penitentiaire_inrichting
+  - hulpdiensten.text_nl_politie
+  - hulpdiensten.text_nl_prorail
+  - hulpdiensten.text_nl_reddingsbrigade
+  - hulpdiensten.text_nl_rijkswaterstaat
+  - hulpdiensten.text_nl_rode_kruis
+  - hulpdiensten.text_nl_sanquin
+  - hulpdiensten.text_nl_weginspecteurs
+  - hulpdiensten.text_shared_academies
+  - hulpdiensten.text_shared_bergingsbedrijf
+  - hulpdiensten.text_shared_hopitaux
+  - hulpdiensten.text_shared_meldkamers
+  - hulpdiensten.text_shared_ziekenhuizen
+  - hulpdiensten.view_in_list
+  - hulpdiensten.view_less
+  - hulpdiensten.view_more
 
 Extra keys not in source
 ------------------------
@@ -28,4 +253,78 @@ fr_FR.json: 3 extra
 
 Missing files by key
 --------------------
-No missing keys detected. All files contain the same leaf keys.
+hulpdiensten.hero_subtitle: de_DE.json, en_US.json, fr_FR.json
+hulpdiensten.hero_title: de_DE.json, en_US.json, fr_FR.json
+hulpdiensten.load_error: de_DE.json, en_US.json, fr_FR.json
+hulpdiensten.loading: de_DE.json, en_US.json, fr_FR.json
+hulpdiensten.meta_description: de_DE.json, en_US.json, fr_FR.json
+hulpdiensten.no_data: de_DE.json, en_US.json, fr_FR.json
+hulpdiensten.no_results: de_DE.json, en_US.json, fr_FR.json
+hulpdiensten.note: de_DE.json, en_US.json, fr_FR.json
+hulpdiensten.og_description: de_DE.json, en_US.json, fr_FR.json
+hulpdiensten.og_title: de_DE.json, en_US.json, fr_FR.json
+hulpdiensten.page_title: de_DE.json, en_US.json, fr_FR.json
+hulpdiensten.search_placeholder: de_DE.json, en_US.json, fr_FR.json
+hulpdiensten.service_academies: de_DE.json, en_US.json, fr_FR.json
+hulpdiensten.service_ambulance: de_DE.json, en_US.json, fr_FR.json
+hulpdiensten.service_bergingsbedrijf: de_DE.json, en_US.json, fr_FR.json
+hulpdiensten.service_brandweer: de_DE.json, en_US.json, fr_FR.json
+hulpdiensten.service_centres_d_appel: de_DE.json, en_US.json, fr_FR.json
+hulpdiensten.service_civiele_bescherming: de_DE.json, en_US.json, fr_FR.json
+hulpdiensten.service_croix_rouge: de_DE.json, en_US.json, fr_FR.json
+hulpdiensten.service_douane: de_DE.json, en_US.json, fr_FR.json
+hulpdiensten.service_feuerwehr: de_DE.json, en_US.json, fr_FR.json
+hulpdiensten.service_hopitaux: de_DE.json, en_US.json, fr_FR.json
+hulpdiensten.service_kmar: de_DE.json, en_US.json, fr_FR.json
+hulpdiensten.service_knrm: de_DE.json, en_US.json, fr_FR.json
+hulpdiensten.service_kustwacht: de_DE.json, en_US.json, fr_FR.json
+hulpdiensten.service_meldkamers: de_DE.json, en_US.json, fr_FR.json
+hulpdiensten.service_penitentiaire_inrichting: de_DE.json, en_US.json, fr_FR.json
+hulpdiensten.service_police: de_DE.json, en_US.json, fr_FR.json
+hulpdiensten.service_politie: de_DE.json, en_US.json, fr_FR.json
+hulpdiensten.service_prorail: de_DE.json, en_US.json, fr_FR.json
+hulpdiensten.service_reddingsbrigade: de_DE.json, en_US.json, fr_FR.json
+hulpdiensten.service_rettungsdienst: de_DE.json, en_US.json, fr_FR.json
+hulpdiensten.service_rijkswaterstaat: de_DE.json, en_US.json, fr_FR.json
+hulpdiensten.service_rode_kruis: de_DE.json, en_US.json, fr_FR.json
+hulpdiensten.service_sanquin: de_DE.json, en_US.json, fr_FR.json
+hulpdiensten.service_weginspecteurs: de_DE.json, en_US.json, fr_FR.json
+hulpdiensten.service_ziekenhuizen: de_DE.json, en_US.json, fr_FR.json
+hulpdiensten.tag_posts: de_DE.json, en_US.json, fr_FR.json
+hulpdiensten.tag_vehicles: de_DE.json, en_US.json, fr_FR.json
+hulpdiensten.tag_with_photo: de_DE.json, en_US.json, fr_FR.json
+hulpdiensten.text_be_ambulance: de_DE.json, en_US.json, fr_FR.json
+hulpdiensten.text_be_brandweer: de_DE.json, en_US.json, fr_FR.json
+hulpdiensten.text_be_civiele_bescherming: de_DE.json, en_US.json, fr_FR.json
+hulpdiensten.text_be_kustwacht: de_DE.json, en_US.json, fr_FR.json
+hulpdiensten.text_be_meldkamers: de_DE.json, en_US.json, fr_FR.json
+hulpdiensten.text_be_politie: de_DE.json, en_US.json, fr_FR.json
+hulpdiensten.text_be_reddingsbrigade: de_DE.json, en_US.json, fr_FR.json
+hulpdiensten.text_default: de_DE.json, en_US.json, fr_FR.json
+hulpdiensten.text_lux_centres_d_appel: de_DE.json, en_US.json, fr_FR.json
+hulpdiensten.text_lux_croix_rouge: de_DE.json, en_US.json, fr_FR.json
+hulpdiensten.text_lux_feuerwehr: de_DE.json, en_US.json, fr_FR.json
+hulpdiensten.text_lux_police: de_DE.json, en_US.json, fr_FR.json
+hulpdiensten.text_lux_rettungsdienst: de_DE.json, en_US.json, fr_FR.json
+hulpdiensten.text_nl_ambulance: de_DE.json, en_US.json, fr_FR.json
+hulpdiensten.text_nl_brandweer: de_DE.json, en_US.json, fr_FR.json
+hulpdiensten.text_nl_douane: de_DE.json, en_US.json, fr_FR.json
+hulpdiensten.text_nl_kmar: de_DE.json, en_US.json, fr_FR.json
+hulpdiensten.text_nl_knrm: de_DE.json, en_US.json, fr_FR.json
+hulpdiensten.text_nl_kustwacht: de_DE.json, en_US.json, fr_FR.json
+hulpdiensten.text_nl_penitentiaire_inrichting: de_DE.json, en_US.json, fr_FR.json
+hulpdiensten.text_nl_politie: de_DE.json, en_US.json, fr_FR.json
+hulpdiensten.text_nl_prorail: de_DE.json, en_US.json, fr_FR.json
+hulpdiensten.text_nl_reddingsbrigade: de_DE.json, en_US.json, fr_FR.json
+hulpdiensten.text_nl_rijkswaterstaat: de_DE.json, en_US.json, fr_FR.json
+hulpdiensten.text_nl_rode_kruis: de_DE.json, en_US.json, fr_FR.json
+hulpdiensten.text_nl_sanquin: de_DE.json, en_US.json, fr_FR.json
+hulpdiensten.text_nl_weginspecteurs: de_DE.json, en_US.json, fr_FR.json
+hulpdiensten.text_shared_academies: de_DE.json, en_US.json, fr_FR.json
+hulpdiensten.text_shared_bergingsbedrijf: de_DE.json, en_US.json, fr_FR.json
+hulpdiensten.text_shared_hopitaux: de_DE.json, en_US.json, fr_FR.json
+hulpdiensten.text_shared_meldkamers: de_DE.json, en_US.json, fr_FR.json
+hulpdiensten.text_shared_ziekenhuizen: de_DE.json, en_US.json, fr_FR.json
+hulpdiensten.view_in_list: de_DE.json, en_US.json, fr_FR.json
+hulpdiensten.view_less: de_DE.json, en_US.json, fr_FR.json
+hulpdiensten.view_more: de_DE.json, en_US.json, fr_FR.json
