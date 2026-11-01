@@ -70,7 +70,8 @@
     "faq_a8": "Ja, das ist möglich. Wenn du interessiert bist, kontaktiere bitte einen der Administratoren oder erstelle ein Ticket in <a href=\"https://discord.com/channels/1270750242270351592/1457685596465266834\" target=\"_blank\" rel=\"noopener noreferrer\">unserem Discord-Server</a>.",
     "gallery_title": "Fotogalerie",
     "copyright_text": "Hulpdienstvoertuigen BeNeLux - Alle Bilder und Informationen sind urheberrechtlich geschützt",
-    "page_title": "Über uns – HulpdienstvoertuigenBenelux"
+    "page_title": "Über uns – HulpdienstvoertuigenBenelux",
+    "copyright_note": "Alle Bilder und Informationen auf dieser Website sind urheberrechtlich geschützt"
   },
   "contact": {
     "page_title": "Kontakt - HulpdienstvoertuigenBenelux",
@@ -157,7 +158,14 @@
     "empty_text": "Noch keine Spenden erhalten. Sei der Erste!",
     "error_text": "Spenden konnten nicht geladen werden.",
     "badge_subscriber": "Mitglied",
-    "goal_description": "Monatsziel für Hosting, Domain und Wartung"
+    "goal_description": "Monatsziel für Hosting, Domain und Wartung",
+    "anonymous": "Anonym",
+    "count_many": "spenden",
+    "count_one": "1 spende",
+    "toggle_leaderboard": "Leaderboard",
+    "toggle_recent": "Jüngste",
+    "wall_leaderboard": "Spitzenspender",
+    "wall_recent": "Jüngste Spenden"
   },
   "fotowedstrijd": {
     "page_title": "Fotowettbewerb - HulpdienstvoertuigenBenelux",
@@ -273,7 +281,10 @@
     "category_civiele_bescherming_desc": "Schützt die Bevölkerung bei Katastrophen und Notfällen",
     "category_feuerwehr_desc": "Brandschutz und Brandschutz in Luxemburg",
     "category_rettungsdienst_desc": "Rettungs- und Rettungsdienste in Luxemburg",
-    "category_sanquin_desc": "Blutversorgung und Bluttransfusion in den Niederlanden"
+    "category_sanquin_desc": "Blutversorgung und Bluttransfusion in den Niederlanden",
+    "hero_stat_photographers": "Fotografen",
+    "hero_stat_photos": "Fotos",
+    "hero_stat_vehicles": "Fahrzeuge"
   },
   "list": {
     "page_title": "Übersichten - HulpdienstvoertuigenBenelux",
@@ -577,7 +588,8 @@
     "explore": "Entdecken",
     "list": "Liste",
     "map": "Karte",
-    "photographers": "Unsere Fotografen"
+    "photographers": "Unsere Fotografen",
+    "services": "Notdienste"
   },
   "post": {
     "breadcrumb_map": "Karte",
@@ -598,7 +610,8 @@
     "page_title": "Beitrag – HulpdienstvoertuigenBenelux",
     "twitter_description": "Sehen Sie sich die Details einer Notdienststation und deren Standort auf der Karte an.",
     "twitter_title": "Beitrag – HulpdienstvoertuigenBenelux",
-    "vehicles_title": "Fahrzeuge"
+    "vehicles_title": "Fahrzeuge",
+    "info_title": "Information"
   },
   "privacy": {
     "back_to_top": "Zurück nach oben",
@@ -825,7 +838,8 @@
     "twitter_description": "Sehen Sie sich alle Details zu diesem Einsatzfahrzeug, einschließlich Fotos und seinem Standort, auf der Karte an.",
     "twitter_title": "Fahrzeug – HulpdienstvoertuigenBenelux",
     "unknown_vehicle": "Unbekanntes Fahrzeug",
-    "view_post": "Sehen Sie sich den Beitrag an"
+    "view_post": "Sehen Sie sich den Beitrag an",
+    "rdw_title": "Zusätzliche Fahrzeugdaten"
   },
   "detail": {
     "breadcrumb_home": "Heim",
@@ -867,5 +881,8 @@
     "sort_oldest": "Ältester Erster",
     "sort_za": "Z-A",
     "photo_one": "foto"
+  },
+  "auth": {
+    "page_title": "Login - GESCHÜTZTE BEDINGUNG 0"
   }
 }
