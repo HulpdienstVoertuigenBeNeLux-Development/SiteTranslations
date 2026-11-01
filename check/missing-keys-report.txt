@@ -2,60 +2,15 @@ Locale key comparison report (source-based)
 ===========================================
 Source file: nl_NL.json
 Total source keys: 829
-Source keys missing in at least one file: 15
+Source keys missing in at least one file: 0
 
 Missing source keys by file
 ---------------------------
-de_DE.json: 15 missing
-  - auth.page_title
-  - donaties.anonymous
-  - donaties.count_many
-  - donaties.count_one
-  - donaties.toggle_leaderboard
-  - donaties.toggle_recent
-  - donaties.wall_leaderboard
-  - donaties.wall_recent
-  - home.hero_stat_photographers
-  - home.hero_stat_photos
-  - home.hero_stat_vehicles
-  - nav.services
-  - over_ons.copyright_note
-  - post.info_title
-  - voertuigen.rdw_title
+de_DE.json: 0 missing
 
-en_US.json: 15 missing
-  - auth.page_title
-  - donaties.anonymous
-  - donaties.count_many
-  - donaties.count_one
-  - donaties.toggle_leaderboard
-  - donaties.toggle_recent
-  - donaties.wall_leaderboard
-  - donaties.wall_recent
-  - home.hero_stat_photographers
-  - home.hero_stat_photos
-  - home.hero_stat_vehicles
-  - nav.services
-  - over_ons.copyright_note
-  - post.info_title
-  - voertuigen.rdw_title
+en_US.json: 0 missing
 
-fr_FR.json: 15 missing
-  - auth.page_title
-  - donaties.anonymous
-  - donaties.count_many
-  - donaties.count_one
-  - donaties.toggle_leaderboard
-  - donaties.toggle_recent
-  - donaties.wall_leaderboard
-  - donaties.wall_recent
-  - home.hero_stat_photographers
-  - home.hero_stat_photos
-  - home.hero_stat_vehicles
-  - nav.services
-  - over_ons.copyright_note
-  - post.info_title
-  - voertuigen.rdw_title
+fr_FR.json: 0 missing
 
 Extra keys not in source
 ------------------------
@@ -73,18 +28,4 @@ fr_FR.json: 3 extra
 
 Missing files by key
 --------------------
-auth.page_title: de_DE.json, en_US.json, fr_FR.json
-donaties.anonymous: de_DE.json, en_US.json, fr_FR.json
-donaties.count_many: de_DE.json, en_US.json, fr_FR.json
-donaties.count_one: de_DE.json, en_US.json, fr_FR.json
-donaties.toggle_leaderboard: de_DE.json, en_US.json, fr_FR.json
-donaties.toggle_recent: de_DE.json, en_US.json, fr_FR.json
-donaties.wall_leaderboard: de_DE.json, en_US.json, fr_FR.json
-donaties.wall_recent: de_DE.json, en_US.json, fr_FR.json
-home.hero_stat_photographers: de_DE.json, en_US.json, fr_FR.json
-home.hero_stat_photos: de_DE.json, en_US.json, fr_FR.json
-home.hero_stat_vehicles: de_DE.json, en_US.json, fr_FR.json
-nav.services: de_DE.json, en_US.json, fr_FR.json
-over_ons.copyright_note: de_DE.json, en_US.json, fr_FR.json
-post.info_title: de_DE.json, en_US.json, fr_FR.json
-voertuigen.rdw_title: de_DE.json, en_US.json, fr_FR.json
+No missing keys detected. All files contain the same leaf keys.
