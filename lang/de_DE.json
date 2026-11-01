@@ -370,6 +370,7 @@
     "success_message": "Fotos erfolgreich eingereicht!",
     "error_message": "Etwas ist schiefgelaufen. Bitte versuche es erneut.",
     "search_min_chars": "Gib mindestens 2 Zeichen ein...",
+    "search_more": "{n} weitere Ergebnisse, tippe weiter zum Filtern",
     "search_loading": "Suche läuft...",
     "no_vehicles_found": "Keine Fahrzeuge gefunden",
     "no_addresses_found": "Keine Adressen gefunden",

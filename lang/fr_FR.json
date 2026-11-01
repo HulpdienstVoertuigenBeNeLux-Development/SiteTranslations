@@ -370,6 +370,7 @@
     "success_message": "Photos soumises avec succes !",
     "error_message": "Une erreur est survenue. Veuillez reessayer.",
     "search_min_chars": "Saisissez au moins 2 caracteres...",
+    "search_more": "{n} résultats de plus, continuez à saisir pour filtrer",
     "search_loading": "Recherche en cours...",
     "no_vehicles_found": "Aucun vehicule trouve",
     "no_addresses_found": "Aucune adresse trouvee",

@@ -372,6 +372,7 @@
     "success_message": "Foto's succesvol verzonden!",
     "error_message": "Er is iets misgegaan. Probeer opnieuw.",
     "search_min_chars": "Typ minimaal 2 tekens...",
+    "search_more": "Nog {n} resultaten, typ verder om te filteren",
     "search_loading": "Zoeken...",
     "no_vehicles_found": "Geen voertuigen gevonden",
     "no_addresses_found": "Geen adressen gevonden",
