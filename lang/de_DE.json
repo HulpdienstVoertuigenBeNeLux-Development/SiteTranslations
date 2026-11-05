@@ -337,7 +337,11 @@
     "label_hulpdienst": "Notdienst",
     "label_photo_view_location": "Standortfoto",
     "label_regio": "Region",
-    "filter_all_countries": "Alle Länder"
+    "filter_all_countries": "Alle Länder",
+    "regio_photo_label": "Fahrzeuge mit Foto",
+    "regio_photo_service": "{service} in {regio}",
+    "regio_photo_count": "{photos} von {vehicles} Fahrzeugen",
+    "regio_photo_all": "Alle Regionen ansehen"
   },
   "upload": {
     "page_title": "Fotos hochladen - HulpdienstvoertuigenBenelux",
@@ -966,6 +970,14 @@
     "view_less": "Weniger anzeigen",
     "view_more": "Mehr anzeigen",
     "tag_post": "Standort",
-    "tag_vehicle": "Fahrzeug"
+    "tag_vehicle": "Fahrzeug",
+    "regions_title": "Fotos pro Region",
+    "regions_subtitle": "Wie viele Fahrzeuge pro Region bereits ein Foto haben. Klicke auf eine Region für die Aufteilung nach Hilfsdienst.",
+    "regions_count": "{photos} von {vehicles} Fahrzeugen mit Foto",
+    "regions_group_nl": "Sicherheitsregionen",
+    "regions_group_zones": "Hilfeleistungszonen",
+    "regions_group_pol": "Polizeieinheiten",
+    "regions_group_rws": "Rijkswaterstaat",
+    "regions_group_kmar": "KMAR"
   }
 }

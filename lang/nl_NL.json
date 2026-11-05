@@ -337,7 +337,11 @@
     "label_hulpdienst": "Hulpdienst",
     "label_regio": "Regio",
     "label_photo_view_location": "Locatie foto",
-    "filter_all_countries": "Alle Landen"
+    "filter_all_countries": "Alle Landen",
+    "regio_photo_label": "Voertuigen met foto",
+    "regio_photo_service": "{service} in {regio}",
+    "regio_photo_count": "{photos} van {vehicles} voertuigen",
+    "regio_photo_all": "Alle regio's bekijken"
   },
   "upload": {
     "submitting": "Bezig met verzenden...",
@@ -963,6 +967,14 @@
     "loading": "Gegevens laden...",
     "note": "De aantallen komen rechtstreeks uit onze database en veranderen mee met elke update. Mis je iets of klopt er iets niet? Laat het ons weten via de <a href=\"/contact\" class=\"hd-link\">contactpagina</a>.",
     "tag_post": "post",
-    "tag_vehicle": "voertuig"
+    "tag_vehicle": "voertuig",
+    "regions_title": "Foto's per regio",
+    "regions_subtitle": "Welk deel van de voertuigen per regio al een foto heeft. Klik op een regio voor de verdeling per hulpdienst.",
+    "regions_count": "{photos} van {vehicles} voertuigen met foto",
+    "regions_group_nl": "Veiligheidsregio's",
+    "regions_group_zones": "Hulpverleningszones",
+    "regions_group_pol": "Politie-eenheden",
+    "regions_group_rws": "Rijkswaterstaat",
+    "regions_group_kmar": "KMAR"
   }
 }

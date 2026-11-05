@@ -337,7 +337,11 @@
     "label_hulpdienst": "Service d'urgence",
     "label_photo_view_location": "Photo de localisation",
     "label_regio": "Région",
-    "filter_all_countries": "Tous les pays"
+    "filter_all_countries": "Tous les pays",
+    "regio_photo_label": "Véhicules avec photo",
+    "regio_photo_service": "{service} dans {regio}",
+    "regio_photo_count": "{photos} véhicules sur {vehicles}",
+    "regio_photo_all": "Voir toutes les régions"
   },
   "upload": {
     "page_title": "Televerser des photos - HulpdienstvoertuigenBenelux",
@@ -966,6 +970,14 @@
     "view_less": "Voir moins",
     "view_more": "Voir plus",
     "tag_post": "emplacement",
-    "tag_vehicle": "véhicule"
+    "tag_vehicle": "véhicule",
+    "regions_title": "Photos par région",
+    "regions_subtitle": "La part des véhicules de chaque région qui a déjà une photo. Cliquez sur une région pour voir la répartition par service de secours.",
+    "regions_count": "{photos} véhicules sur {vehicles} avec photo",
+    "regions_group_nl": "Régions de sécurité",
+    "regions_group_zones": "Zones de secours",
+    "regions_group_pol": "Unités de police",
+    "regions_group_rws": "Rijkswaterstaat",
+    "regions_group_kmar": "KMAR"
   }
 }

@@ -337,7 +337,11 @@
     "label_hulpdienst": "Emergency Service",
     "label_regio": "Region",
     "label_photo_view_location": "Photo location",
-    "filter_all_countries": "All Countries"
+    "filter_all_countries": "All Countries",
+    "regio_photo_label": "Vehicles with a photo",
+    "regio_photo_service": "{service} in {regio}",
+    "regio_photo_count": "{photos} of {vehicles} vehicles",
+    "regio_photo_all": "View all regions"
   },
   "upload": {
     "submitting": "Sending...",
@@ -963,6 +967,14 @@
     "view_less": "View less",
     "view_more": "View more",
     "tag_post": "building",
-    "tag_vehicle": "vehicle"
+    "tag_vehicle": "vehicle",
+    "regions_title": "Photos per region",
+    "regions_subtitle": "How many of the vehicles in each region already have a photo. Click a region to see the breakdown per emergency service.",
+    "regions_count": "{photos} of {vehicles} vehicles with a photo",
+    "regions_group_nl": "Safety regions",
+    "regions_group_zones": "Emergency zones",
+    "regions_group_pol": "Police units",
+    "regions_group_rws": "Rijkswaterstaat",
+    "regions_group_kmar": "KMAR"
   }
 }
