@@ -994,7 +994,7 @@
     "tile_posts": "Posten",
     "tile_posts_note": "kazernes, standplaatsen en bureaus",
     "regions_chart_title": "Voertuigen per regio",
-    "regions_chart_sub": "Hoe langer de balk, hoe meer voertuigen; het blauwe deel heeft al een foto. Elke groep heeft een eigen schaal.",
+    "regions_chart_sub": "Elke balk is één regio; het blauwe deel van de voertuigen heeft al een foto.",
     "services_chart_title": "Voertuigen per hulpdienst",
     "services_chart_sub": "Hetzelfde per hulpdienst, voor het hele land.",
     "sort": "Sorteren",

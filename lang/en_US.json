@@ -994,7 +994,7 @@
     "tile_posts": "Buildings",
     "tile_posts_note": "stations, bases and offices",
     "regions_chart_title": "Vehicles per region",
-    "regions_chart_sub": "The longer the bar, the more vehicles; the blue part already has a photo. Each group has its own scale.",
+    "regions_chart_sub": "Each bar is one region; the blue part of the vehicles already has a photo.",
     "services_chart_title": "Vehicles per emergency service",
     "services_chart_sub": "The same per emergency service, for the whole country.",
     "sort": "Sort",

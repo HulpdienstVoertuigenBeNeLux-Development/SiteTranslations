@@ -997,7 +997,7 @@
     "tile_posts": "Standorte",
     "tile_posts_note": "Wachen, Stützpunkte und Dienststellen",
     "regions_chart_title": "Fahrzeuge pro Region",
-    "regions_chart_sub": "Je länger der Balken, desto mehr Fahrzeuge; der blaue Teil hat schon ein Foto. Jede Gruppe hat einen eigenen Maßstab.",
+    "regions_chart_sub": "Jeder Balken ist eine Region; der blaue Teil der Fahrzeuge hat schon ein Foto.",
     "services_chart_title": "Fahrzeuge pro Rettungsdienst",
     "services_chart_sub": "Dasselbe pro Rettungsdienst, für das ganze Land.",
     "sort": "Sortieren",

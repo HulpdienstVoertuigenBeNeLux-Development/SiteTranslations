@@ -997,7 +997,7 @@
     "tile_posts": "Sites",
     "tile_posts_note": "casernes, bases et bureaux",
     "regions_chart_title": "Véhicules par région",
-    "regions_chart_sub": "Plus la barre est longue, plus il y a de véhicules ; la partie bleue a déjà une photo. Chaque groupe a sa propre échelle.",
+    "regions_chart_sub": "Chaque barre représente une région ; la partie bleue des véhicules a déjà une photo.",
     "services_chart_title": "Véhicules par service de secours",
     "services_chart_sub": "La même chose par service de secours, pour tout le pays.",
     "sort": "Trier",
