@@ -419,7 +419,8 @@
     "explore": "Verken",
     "photographers": "Onze fotografen",
     "all_photos": "Alle foto's",
-    "services": "Hulpdiensten"
+    "services": "Hulpdiensten",
+    "statistics": "Statistieken"
   },
   "footer": {
     "description": "Het meest complete overzicht van hulpdienstvoertuigen in de Benelux. Ontdek, vergelijk en leer over de verschillende voertuigen die worden ingezet voor onze veiligheid.",
@@ -977,5 +978,31 @@
     "regions_group_pol": "Politie-eenheden",
     "regions_group_rws": "Rijkswaterstaat",
     "regions_group_kmar": "KMAR"
+  },
+  "statistieken": {
+    "page_title": "Statistieken - HulpdienstvoertuigenBenelux",
+    "og_title": "Statistieken - HulpdienstvoertuigenBenelux",
+    "meta_description": "Hoeveel voertuigen van de hulpdiensten in Nederland, België en Luxemburg staan in onze database, en hoeveel daarvan hebben al een foto? Per regio en per hulpdienst.",
+    "og_description": "Voertuigen en foto's per regio en per hulpdienst in de Benelux, rechtstreeks uit onze database.",
+    "hero_title": "Statistieken",
+    "hero_subtitle": "Hoeveel voertuigen staan er in onze database, en hoeveel hebben er al een foto?",
+    "loading": "Gegevens laden...",
+    "tile_vehicles": "Voertuigen",
+    "tile_vehicles_note": "in onze database",
+    "tile_photos": "Met foto",
+    "tile_photos_note": "{n} voertuigen",
+    "tile_posts": "Posten",
+    "tile_posts_note": "kazernes, standplaatsen en bureaus",
+    "regions_chart_title": "Voertuigen per regio",
+    "regions_chart_sub": "Hoe langer de balk, hoe meer voertuigen; het blauwe deel heeft al een foto. Elke groep heeft een eigen schaal.",
+    "services_chart_title": "Voertuigen per hulpdienst",
+    "services_chart_sub": "Hetzelfde per hulpdienst, voor het hele land.",
+    "sort": "Sorteren",
+    "sort_order": "Regionummer",
+    "sort_pct": "% met foto",
+    "sort_size": "Aantal voertuigen",
+    "legend_with": "Met foto",
+    "legend_without": "Nog zonder foto",
+    "tip_total": "Totaal"
   }
 }

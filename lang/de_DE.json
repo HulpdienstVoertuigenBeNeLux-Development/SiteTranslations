@@ -598,7 +598,8 @@
     "list": "Liste",
     "map": "Karte",
     "photographers": "Unsere Fotografen",
-    "services": "Notdienste"
+    "services": "Notdienste",
+    "statistics": "Statistiken"
   },
   "post": {
     "breadcrumb_map": "Karte",
@@ -980,5 +981,31 @@
     "regions_group_pol": "Polizeieinheiten",
     "regions_group_rws": "Rijkswaterstaat",
     "regions_group_kmar": "KMAR"
+  },
+  "statistieken": {
+    "page_title": "Statistiken - HulpdienstvoertuigenBenelux",
+    "og_title": "Statistiken - HulpdienstvoertuigenBenelux",
+    "meta_description": "Wie viele Fahrzeuge der Rettungsdienste in den Niederlanden, Belgien und Luxemburg sind in unserer Datenbank, und wie viele davon haben schon ein Foto? Pro Region und pro Rettungsdienst.",
+    "og_description": "Fahrzeuge und Fotos pro Region und pro Rettungsdienst in den Benelux-Ländern, direkt aus unserer Datenbank.",
+    "hero_title": "Statistiken",
+    "hero_subtitle": "Wie viele Fahrzeuge sind in unserer Datenbank, und wie viele haben schon ein Foto?",
+    "loading": "Daten werden geladen...",
+    "tile_vehicles": "Fahrzeuge",
+    "tile_vehicles_note": "in unserer Datenbank",
+    "tile_photos": "Mit Foto",
+    "tile_photos_note": "{n} Fahrzeuge",
+    "tile_posts": "Standorte",
+    "tile_posts_note": "Wachen, Stützpunkte und Dienststellen",
+    "regions_chart_title": "Fahrzeuge pro Region",
+    "regions_chart_sub": "Je länger der Balken, desto mehr Fahrzeuge; der blaue Teil hat schon ein Foto. Jede Gruppe hat einen eigenen Maßstab.",
+    "services_chart_title": "Fahrzeuge pro Rettungsdienst",
+    "services_chart_sub": "Dasselbe pro Rettungsdienst, für das ganze Land.",
+    "sort": "Sortieren",
+    "sort_order": "Regionsnummer",
+    "sort_pct": "% mit Foto",
+    "sort_size": "Anzahl Fahrzeuge",
+    "legend_with": "Mit Foto",
+    "legend_without": "Noch ohne Foto",
+    "tip_total": "Gesamt"
   }
 }

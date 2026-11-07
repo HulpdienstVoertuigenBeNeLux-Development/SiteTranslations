@@ -419,7 +419,8 @@
     "explore": "Explore",
     "all_photos": "All photos",
     "photographers": "Our photographers",
-    "services": "Emergency services"
+    "services": "Emergency services",
+    "statistics": "Statistics"
   },
   "footer": {
     "description": "The most complete overview of emergency vehicles in the Benelux. Discover, compare and learn about the different vehicles that are deployed for our safety.",
@@ -977,5 +978,31 @@
     "regions_group_pol": "Police units",
     "regions_group_rws": "Rijkswaterstaat",
     "regions_group_kmar": "KMAR"
+  },
+  "statistieken": {
+    "page_title": "Statistics - HulpdienstvoertuigenBenelux",
+    "og_title": "Statistics - HulpdienstvoertuigenBenelux",
+    "meta_description": "How many emergency service vehicles in the Netherlands, Belgium and Luxembourg are in our database, and how many already have a photo? Per region and per emergency service.",
+    "og_description": "Vehicles and photos per region and per emergency service in the Benelux, straight from our database.",
+    "hero_title": "Statistics",
+    "hero_subtitle": "How many vehicles are in our database, and how many already have a photo?",
+    "loading": "Loading data...",
+    "tile_vehicles": "Vehicles",
+    "tile_vehicles_note": "in our database",
+    "tile_photos": "With a photo",
+    "tile_photos_note": "{n} vehicles",
+    "tile_posts": "Buildings",
+    "tile_posts_note": "stations, bases and offices",
+    "regions_chart_title": "Vehicles per region",
+    "regions_chart_sub": "The longer the bar, the more vehicles; the blue part already has a photo. Each group has its own scale.",
+    "services_chart_title": "Vehicles per emergency service",
+    "services_chart_sub": "The same per emergency service, for the whole country.",
+    "sort": "Sort",
+    "sort_order": "Region number",
+    "sort_pct": "% with a photo",
+    "sort_size": "Number of vehicles",
+    "legend_with": "With a photo",
+    "legend_without": "No photo yet",
+    "tip_total": "Total"
   }
 }

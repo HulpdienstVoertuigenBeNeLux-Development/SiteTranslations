@@ -598,7 +598,8 @@
     "list": "Liste",
     "map": "Carte",
     "photographers": "Nos photographes",
-    "services": "Services d'urgence"
+    "services": "Services d'urgence",
+    "statistics": "Statistiques"
   },
   "post": {
     "breadcrumb_map": "Carte",
@@ -980,5 +981,31 @@
     "regions_group_pol": "Unités de police",
     "regions_group_rws": "Rijkswaterstaat",
     "regions_group_kmar": "KMAR"
+  },
+  "statistieken": {
+    "page_title": "Statistiques - HulpdienstvoertuigenBenelux",
+    "og_title": "Statistiques - HulpdienstvoertuigenBenelux",
+    "meta_description": "Combien de véhicules des services de secours aux Pays-Bas, en Belgique et au Luxembourg figurent dans notre base de données, et combien ont déjà une photo ? Par région et par service de secours.",
+    "og_description": "Véhicules et photos par région et par service de secours au Benelux, directement depuis notre base de données.",
+    "hero_title": "Statistiques",
+    "hero_subtitle": "Combien de véhicules figurent dans notre base de données, et combien ont déjà une photo ?",
+    "loading": "Chargement des données...",
+    "tile_vehicles": "Véhicules",
+    "tile_vehicles_note": "dans notre base de données",
+    "tile_photos": "Avec photo",
+    "tile_photos_note": "{n} véhicules",
+    "tile_posts": "Sites",
+    "tile_posts_note": "casernes, bases et bureaux",
+    "regions_chart_title": "Véhicules par région",
+    "regions_chart_sub": "Plus la barre est longue, plus il y a de véhicules ; la partie bleue a déjà une photo. Chaque groupe a sa propre échelle.",
+    "services_chart_title": "Véhicules par service de secours",
+    "services_chart_sub": "La même chose par service de secours, pour tout le pays.",
+    "sort": "Trier",
+    "sort_order": "Numéro de région",
+    "sort_pct": "% avec photo",
+    "sort_size": "Nombre de véhicules",
+    "legend_with": "Avec photo",
+    "legend_without": "Pas encore de photo",
+    "tip_total": "Total"
   }
 }
