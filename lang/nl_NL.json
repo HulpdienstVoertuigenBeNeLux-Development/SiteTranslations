@@ -288,7 +288,9 @@
     "category_sanquin_desc": "Bloedvoorziening en bloedtransfusie in Nederland",
     "hero_stat_photographers": "Fotografen",
     "hero_stat_photos": "Foto's",
-    "hero_stat_vehicles": "Voertuigen"
+    "hero_stat_vehicles": "Voertuigen",
+    "vehicles_suffix": "voertuigen",
+    "buildings_suffix": "gebouwen"
   },
   "list": {
     "page_title": "Overzichten - HulpdienstvoertuigenBenelux",
