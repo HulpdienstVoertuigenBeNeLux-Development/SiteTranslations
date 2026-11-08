@@ -288,7 +288,9 @@
     "category_sanquin_desc": "Approvisionnement en sang et transfusion de sang aux Pays-Bas",
     "hero_stat_photographers": "Photographes",
     "hero_stat_photos": "Photos",
-    "hero_stat_vehicles": "Véhicules"
+    "hero_stat_vehicles": "Véhicules",
+    "vehicles_suffix": "véhicules",
+    "buildings_suffix": "bâtiments"
   },
   "list": {
     "page_title": "Apercus - HulpdienstvoertuigenBenelux",
