@@ -1026,6 +1026,8 @@
     "vehicles_photo_label": "{photos} véhicules sur {n} avec photo",
     "posts_photo_label": "{photos} sites sur {n} avec photo",
     "tile_photos_split": "{vehicles} véhicules et {posts} sites",
-    "services_chart_photos": "Chaque barre représente un service de secours pour tout le pays ; la partie bleue des véhicules et des sites a déjà une photo. Les véhicules sont les voitures, bateaux et aéronefs ; les sites sont les bâtiments sur la carte, comme les casernes, bureaux, postes et hôpitaux."
+    "services_chart_photos": "Chaque barre représente un service de secours pour tout le pays ; la partie bleue des véhicules et des sites a déjà une photo. Les véhicules sont les voitures, bateaux et aéronefs ; les sites sont les bâtiments sur la carte, comme les casernes, bureaux, postes et hôpitaux.",
+    "tile_total": "Dans notre base de données",
+    "tile_total_note": "{vehicles} véhicules et {posts} sites"
   }
 }
