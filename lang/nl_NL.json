@@ -345,7 +345,10 @@
     "regio_photo_label": "Voertuigen met foto",
     "regio_photo_service": "{service} in {regio}",
     "regio_photo_count": "{photos} van {vehicles} voertuigen",
-    "regio_photo_all": "Alle regio's bekijken"
+    "regio_photo_all": "Alle regio's bekijken",
+    "regio_photo_with": "Met foto",
+    "regio_photo_vehicles": "{photos} van {n} voertuigen",
+    "regio_photo_posts": "{photos} van {n} locaties"
   },
   "upload": {
     "submitting": "Bezig met verzenden...",

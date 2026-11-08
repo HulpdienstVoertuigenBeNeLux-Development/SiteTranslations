@@ -345,7 +345,10 @@
     "regio_photo_label": "Vehicles with a photo",
     "regio_photo_service": "{service} in {regio}",
     "regio_photo_count": "{photos} of {vehicles} vehicles",
-    "regio_photo_all": "View all regions"
+    "regio_photo_all": "View all regions",
+    "regio_photo_with": "With a photo",
+    "regio_photo_vehicles": "{photos} of {n} vehicles",
+    "regio_photo_posts": "{photos} of {n} locations"
   },
   "upload": {
     "submitting": "Sending...",
