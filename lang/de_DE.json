@@ -1024,6 +1024,8 @@
     "services_chart_explain": "Jeder Balken ist ein Rettungsdienst im ganzen Land; der blaue Teil hat schon ein Foto. Fahrzeuge sind Autos, Boote und Luftfahrzeuge; Standorte sind die Gebäude auf der Karte, etwa Wachen, Dienststellen, Stützpunkte und Krankenhäuser. Unter „Nur Gebäude“ bezieht sich der Balken auf die Standorte.",
     "legend_ratio": "12/40 = 12 von 40 mit Foto",
     "vehicles_photo_label": "{photos} von {n} Fahrzeugen mit Foto",
-    "posts_photo_label": "{photos} von {n} Standorten mit Foto"
+    "posts_photo_label": "{photos} von {n} Standorten mit Foto",
+    "tile_photos_split": "{vehicles} Fahrzeuge und {posts} Standorte",
+    "services_chart_photos": "Jeder Balken ist ein Rettungsdienst im ganzen Land; der blaue Teil der Fahrzeuge und Standorte hat schon ein Foto. Fahrzeuge sind Autos, Boote und Luftfahrzeuge; Standorte sind die Gebäude auf der Karte, etwa Wachen, Dienststellen, Stützpunkte und Krankenhäuser."
   }
 }

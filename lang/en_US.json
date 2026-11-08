@@ -1021,6 +1021,8 @@
     "services_chart_explain": "Each bar is one emergency service for the whole country; the blue part already has a photo. Vehicles are cars, boats and aircraft; locations are the buildings on the map, such as stations, police offices, standby points and hospitals. Under \"Buildings only\" the bar is about the locations.",
     "legend_ratio": "12/40 = 12 of the 40 with a photo",
     "vehicles_photo_label": "{photos} of {n} vehicles with a photo",
-    "posts_photo_label": "{photos} of {n} locations with a photo"
+    "posts_photo_label": "{photos} of {n} locations with a photo",
+    "tile_photos_split": "{vehicles} vehicles and {posts} locations",
+    "services_chart_photos": "Each bar is one emergency service for the whole country; the blue part of the vehicles and locations already has a photo. Vehicles are cars, boats and aircraft; locations are the buildings on the map, such as stations, police offices, standby points and hospitals."
   }
 }

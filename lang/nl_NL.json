@@ -1021,6 +1021,8 @@
     "services_chart_explain": "Elke balk is één hulpdienst in het hele land; het blauwe deel heeft al een foto. Voertuigen zijn auto's, boten en luchtvaartuigen; locaties zijn de gebouwen op de kaart, zoals kazernes, bureaus, standplaatsen en ziekenhuizen. Onder \"Alleen gebouwen\" gaat de balk over de locaties.",
     "legend_ratio": "12/40 = 12 van de 40 met foto",
     "vehicles_photo_label": "{photos} van {n} voertuigen met foto",
-    "posts_photo_label": "{photos} van {n} locaties met foto"
+    "posts_photo_label": "{photos} van {n} locaties met foto",
+    "tile_photos_split": "{vehicles} voertuigen en {posts} locaties",
+    "services_chart_photos": "Elke balk is één hulpdienst in het hele land; het blauwe deel van de voertuigen en locaties heeft al een foto. Voertuigen zijn auto's, boten en luchtvaartuigen; locaties zijn de gebouwen op de kaart, zoals kazernes, bureaus, standplaatsen en ziekenhuizen."
   }
 }
