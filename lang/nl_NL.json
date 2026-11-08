@@ -1003,6 +1003,15 @@
     "sort_size": "Aantal voertuigen",
     "legend_with": "Met foto",
     "legend_without": "Nog zonder foto",
-    "tip_total": "Totaal"
+    "tip_total": "Totaal",
+    "tile_locations": "Locaties",
+    "tip_total_vehicles": "Totaal voertuigen",
+    "tip_posts": "Locaties",
+    "count_vehicle": "1 voertuig",
+    "count_vehicles": "{n} voertuigen",
+    "count_post": "1 locatie",
+    "count_posts": "{n} locaties",
+    "service_count": "{photos} van {vehicles} voertuigen",
+    "services_chart_note": "Elke balk is één hulpdienst in het hele land; het blauwe deel van de voertuigen heeft al een foto. Locaties zijn kazernes, standplaatsen en bureaus."
   }
 }

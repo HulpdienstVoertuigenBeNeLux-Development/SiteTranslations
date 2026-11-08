@@ -1003,6 +1003,15 @@
     "sort_size": "Number of vehicles",
     "legend_with": "With a photo",
     "legend_without": "No photo yet",
-    "tip_total": "Total"
+    "tip_total": "Total",
+    "tile_locations": "Locations",
+    "tip_total_vehicles": "Total vehicles",
+    "tip_posts": "Locations",
+    "count_vehicle": "1 vehicle",
+    "count_vehicles": "{n} vehicles",
+    "count_post": "1 location",
+    "count_posts": "{n} locations",
+    "service_count": "{photos} of {vehicles} vehicles",
+    "services_chart_note": "Each bar is one emergency service for the whole country; the blue part of the vehicles already has a photo. Locations are stations, bases and police offices."
   }
 }

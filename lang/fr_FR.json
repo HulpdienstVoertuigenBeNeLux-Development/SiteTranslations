@@ -1006,6 +1006,15 @@
     "sort_size": "Nombre de véhicules",
     "legend_with": "Avec photo",
     "legend_without": "Pas encore de photo",
-    "tip_total": "Total"
+    "tip_total": "Total",
+    "tile_locations": "Sites",
+    "tip_total_vehicles": "Total des véhicules",
+    "tip_posts": "Sites",
+    "count_vehicle": "1 véhicule",
+    "count_vehicles": "{n} véhicules",
+    "count_post": "1 site",
+    "count_posts": "{n} sites",
+    "service_count": "{photos} véhicules sur {vehicles}",
+    "services_chart_note": "Chaque barre représente un service de secours pour tout le pays ; la partie bleue des véhicules a déjà une photo. Les sites sont les casernes, postes et bureaux."
   }
 }
