@@ -290,7 +290,8 @@
     "hero_stat_photos": "Photos",
     "hero_stat_vehicles": "Véhicules",
     "vehicles_suffix": "véhicules",
-    "buildings_suffix": "bâtiments"
+    "buildings_suffix": "bâtiments",
+    "hero_stat_buildings": "Bâtiments"
   },
   "list": {
     "page_title": "Apercus - HulpdienstvoertuigenBenelux",

@@ -290,7 +290,8 @@
     "hero_stat_photos": "Fotos",
     "hero_stat_vehicles": "Fahrzeuge",
     "vehicles_suffix": "Fahrzeuge",
-    "buildings_suffix": "Gebäude"
+    "buildings_suffix": "Gebäude",
+    "hero_stat_buildings": "Gebäude"
   },
   "list": {
     "page_title": "Übersichten - HulpdienstvoertuigenBenelux",
