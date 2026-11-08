@@ -1012,6 +1012,12 @@
     "count_post": "1 locatie",
     "count_posts": "{n} locaties",
     "service_count": "{photos} van {vehicles} voertuigen",
-    "services_chart_note": "Elke balk is één hulpdienst in het hele land; het blauwe deel van de voertuigen heeft al een foto. Locaties zijn kazernes, standplaatsen en bureaus."
+    "services_chart_note": "Elke balk is één hulpdienst in het hele land; het blauwe deel van de voertuigen heeft al een foto. Locaties zijn kazernes, standplaatsen en bureaus.",
+    "tile_locations_note": "alle gebouwen op de kaart",
+    "buildings_title": "Alleen gebouwen",
+    "count_with_photo": "{n} met foto",
+    "legend_vehicles": "Voertuigen",
+    "legend_posts": "Locaties",
+    "services_chart_explain": "Elke balk is één hulpdienst in het hele land; het blauwe deel heeft al een foto. Voertuigen zijn auto's, boten en luchtvaartuigen; locaties zijn de gebouwen op de kaart, zoals kazernes, bureaus, standplaatsen en ziekenhuizen. Onder \"Alleen gebouwen\" gaat de balk over de locaties."
   }
 }
