@@ -345,7 +345,10 @@
     "regio_photo_label": "Fahrzeuge mit Foto",
     "regio_photo_service": "{service} in {regio}",
     "regio_photo_count": "{photos} von {vehicles} Fahrzeugen",
-    "regio_photo_all": "Alle Regionen ansehen"
+    "regio_photo_all": "Alle Regionen ansehen",
+    "regio_photo_with": "Mit Foto",
+    "regio_photo_vehicles": "{photos} von {n} Fahrzeugen",
+    "regio_photo_posts": "{photos} von {n} Standorten"
   },
   "upload": {
     "page_title": "Fotos hochladen - HulpdienstvoertuigenBenelux",

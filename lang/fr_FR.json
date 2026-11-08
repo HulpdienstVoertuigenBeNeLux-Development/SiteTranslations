@@ -345,7 +345,10 @@
     "regio_photo_label": "Véhicules avec photo",
     "regio_photo_service": "{service} dans {regio}",
     "regio_photo_count": "{photos} véhicules sur {vehicles}",
-    "regio_photo_all": "Voir toutes les régions"
+    "regio_photo_all": "Voir toutes les régions",
+    "regio_photo_with": "Avec photo",
+    "regio_photo_vehicles": "{photos} véhicules sur {n}",
+    "regio_photo_posts": "{photos} sites sur {n}"
   },
   "upload": {
     "page_title": "Televerser des photos - HulpdienstvoertuigenBenelux",
