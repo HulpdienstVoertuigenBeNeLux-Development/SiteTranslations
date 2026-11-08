@@ -1015,6 +1015,12 @@
     "count_post": "1 site",
     "count_posts": "{n} sites",
     "service_count": "{photos} véhicules sur {vehicles}",
-    "services_chart_note": "Chaque barre représente un service de secours pour tout le pays ; la partie bleue des véhicules a déjà une photo. Les sites sont les casernes, postes et bureaux."
+    "services_chart_note": "Chaque barre représente un service de secours pour tout le pays ; la partie bleue des véhicules a déjà une photo. Les sites sont les casernes, postes et bureaux.",
+    "tile_locations_note": "tous les bâtiments sur la carte",
+    "buildings_title": "Bâtiments uniquement",
+    "count_with_photo": "{n} avec photo",
+    "legend_vehicles": "Véhicules",
+    "legend_posts": "Sites",
+    "services_chart_explain": "Chaque barre représente un service de secours pour tout le pays ; la partie bleue a déjà une photo. Les véhicules sont les voitures, bateaux et aéronefs ; les sites sont les bâtiments sur la carte, comme les casernes, bureaux, postes et hôpitaux. Sous « Bâtiments uniquement », la barre concerne les sites."
   }
 }

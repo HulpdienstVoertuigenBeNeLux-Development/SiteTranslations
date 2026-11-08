@@ -1012,6 +1012,12 @@
     "count_post": "1 location",
     "count_posts": "{n} locations",
     "service_count": "{photos} of {vehicles} vehicles",
-    "services_chart_note": "Each bar is one emergency service for the whole country; the blue part of the vehicles already has a photo. Locations are stations, bases and police offices."
+    "services_chart_note": "Each bar is one emergency service for the whole country; the blue part of the vehicles already has a photo. Locations are stations, bases and police offices.",
+    "tile_locations_note": "all buildings on the map",
+    "buildings_title": "Buildings only",
+    "count_with_photo": "{n} with a photo",
+    "legend_vehicles": "Vehicles",
+    "legend_posts": "Locations",
+    "services_chart_explain": "Each bar is one emergency service for the whole country; the blue part already has a photo. Vehicles are cars, boats and aircraft; locations are the buildings on the map, such as stations, police offices, standby points and hospitals. Under \"Buildings only\" the bar is about the locations."
   }
 }
