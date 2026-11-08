@@ -1006,6 +1006,15 @@
     "sort_size": "Anzahl Fahrzeuge",
     "legend_with": "Mit Foto",
     "legend_without": "Noch ohne Foto",
-    "tip_total": "Gesamt"
+    "tip_total": "Gesamt",
+    "tile_locations": "Standorte",
+    "tip_total_vehicles": "Fahrzeuge gesamt",
+    "tip_posts": "Standorte",
+    "count_vehicle": "1 Fahrzeug",
+    "count_vehicles": "{n} Fahrzeuge",
+    "count_post": "1 Standort",
+    "count_posts": "{n} Standorte",
+    "service_count": "{photos} von {vehicles} Fahrzeugen",
+    "services_chart_note": "Jeder Balken ist ein Rettungsdienst im ganzen Land; der blaue Teil der Fahrzeuge hat schon ein Foto. Standorte sind Wachen, Stützpunkte und Dienststellen."
   }
 }
