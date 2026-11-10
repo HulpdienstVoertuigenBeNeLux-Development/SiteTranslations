@@ -875,7 +875,10 @@
     "page_title": "Nos photographes - HulpdienstvoertuigenBenelux",
     "photos": "photos",
     "unknown": "Inconnu",
-    "photo_one": "photo"
+    "photo_one": "photo",
+    "community_title": "Communauté",
+    "community_subtitle": "Photos de photographes sans compte sur ce site.",
+    "community_more": "Charger plus de photos"
   },
   "fotos": {
     "all_photographers": "Tous les photographes",

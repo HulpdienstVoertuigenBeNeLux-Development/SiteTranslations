@@ -872,7 +872,10 @@
     "error": "Photographers could not be loaded.",
     "photos": "photos",
     "unknown": "Unknown",
-    "photo_one": "photo"
+    "photo_one": "photo",
+    "community_title": "Community",
+    "community_subtitle": "Photos by photographers without an account on this website.",
+    "community_more": "Load more photos"
   },
   "fotos": {
     "page_title": "All photos - HulpdienstvoertuigenBenelux",
